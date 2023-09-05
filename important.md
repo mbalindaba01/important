@@ -1,0 +1,3 @@
+It is important to ensure you fully understand the work instead of rushing to finish as many cards as you can. This is because a good developer understands how and why their code works or does not work.
+
+They aim to understand concepts on a deeper level as that makes it easy to fix problems when they arise. Getting done is not learning and growing as a developer, but understanding concepts is what consitutes growing. And we want to learn and grow, not just get done.
